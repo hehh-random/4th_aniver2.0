@@ -43,17 +43,19 @@ const pages = [
     image:"assets/images/page5.jpg",
     title:"Forever Begins Again",
     message:"Every anniversary feels like page one."
-}
+},
+
 {
  image:"assets/images/page6.jpg",
  title:"The Journey Continues",
  message:"A beautiful memory here."
-}
+},
+
 {
  image:"assets/images/page20.jpg",
  title:"Happily Ever After",
  message:"And our story is still being written..."
-}
+},
 
 ];
 
